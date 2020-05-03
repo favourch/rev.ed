@@ -5,8 +5,8 @@
 	font-family: 'Varela Round', sans-serif;
 }
 
-body{
-	height:300vh;
+.test{
+	height:150vh;
 }
 
 .active{
@@ -16,7 +16,7 @@ body{
 }
 
 .navbar{
-	transition:background-color 0.5s;
+	transition:all 0.5s;
 	width:100%;
 	display:flex;
 	position: fixed;
@@ -26,7 +26,8 @@ body{
 		padding:5px 20px;
 		flex:1;
 		img{
-			width:250px;
+			width:200px;
+			margin-top:5px;
 		}
 	}
 	.nav{
@@ -34,14 +35,14 @@ body{
 		.not-nested{
 			display: flex;
 			list-style: none;
-			margin-top:25px;
+			margin-top:20px;
 			letter-spacing: 3px;
 			justify-content:flex-end;
 			margin-right:50px;
 			li{
 				padding:10px 20px;
 				color:rgba(0,0,0,0.8);
-				font-size:18px;
+				font-size:16px;
                 a{
                 	text-decoration: none;
                 	color:rgba(0,0,0,0.8);
@@ -62,14 +63,8 @@ body{
                 	}
 
                 }
-                &:hover{
-                	color:rgb(105, 47, 204);
-                	cursor:pointer;
-                }
- 
 			}
 			.dropdown{
-
 				.nested{
 
 					position:absolute;
