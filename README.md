@@ -1,0 +1,2 @@
+# rev.ed
+ed-tech startup that help you learn through industry level projects that too in a competitive environment which pays you monetary prizes too for you. Its never that enjoyable and experience-full to build projects and rev up your skills.Moreover rev.ed also provide other businesses to get their tech needs full filled at an unmatched price and with a large selection offered to them to choose from. 
